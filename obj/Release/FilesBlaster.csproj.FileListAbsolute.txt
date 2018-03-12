@@ -1,0 +1,5 @@
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Release\FilesBlaster.exe.config
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Release\FilesBlaster.exe
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Release\FilesBlaster.pdb
+E:\playground\Blaster\FilesBlaster\FilesBlaster\obj\Release\FilesBlaster.exe
+E:\playground\Blaster\FilesBlaster\FilesBlaster\obj\Release\FilesBlaster.pdb

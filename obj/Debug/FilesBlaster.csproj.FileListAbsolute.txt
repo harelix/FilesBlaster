@@ -1,0 +1,6 @@
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Debug\FilesBlaster.exe.config
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Debug\FilesBlaster.exe
+E:\playground\Blaster\FilesBlaster\FilesBlaster\bin\Debug\FilesBlaster.pdb
+E:\playground\Blaster\FilesBlaster\FilesBlaster\obj\Debug\FilesBlaster.csprojResolveAssemblyReference.cache
+E:\playground\Blaster\FilesBlaster\FilesBlaster\obj\Debug\FilesBlaster.exe
+E:\playground\Blaster\FilesBlaster\FilesBlaster\obj\Debug\FilesBlaster.pdb
